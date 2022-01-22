@@ -2,3 +2,14 @@
 2022-01-22 08:25:57,380 [main] INFO ebanking - Entered UserName
 2022-01-22 08:25:57,466 [main] INFO ebanking - Entered Password
 2022-01-22 08:25:58,762 [main] INFO ebanking - Login Test Passed
+2022-01-22 08:48:58,328 [main] INFO ebanking - Url is Opened
+2022-01-22 08:49:05,606 [main] INFO ebanking - Entered UserName
+2022-01-22 08:49:05,690 [main] INFO ebanking - Entered Password
+2022-01-22 08:49:07,044 [main] INFO ebanking - Login Test Passed
+2022-01-22 09:59:50,393 [main] INFO ebanking - Url is Opened
+2022-01-22 09:59:57,786 [main] INFO ebanking - Entered UserName
+2022-01-22 09:59:57,908 [main] INFO ebanking - Entered Password
+2022-01-22 10:02:42,236 [main] INFO ebanking - Url is Opened
+2022-01-22 10:02:49,594 [main] INFO ebanking - Entered UserName
+2022-01-22 10:02:49,719 [main] INFO ebanking - Entered Password
+2022-01-22 10:02:52,840 [main] INFO ebanking - Login Test Passed
