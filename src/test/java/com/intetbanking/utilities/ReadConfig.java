@@ -48,4 +48,9 @@ public class ReadConfig {
         String IEDriverPath=pro.getProperty("iepath");
         return IEDriverPath;
     }
+    public String getFirefoxPath()
+    {
+        String FirefoxDriverPath=pro.getProperty("firefoxpath");
+        return FirefoxDriverPath;
+    }
 }
